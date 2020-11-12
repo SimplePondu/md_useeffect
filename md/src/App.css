@@ -1,0 +1,11 @@
+.field{
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 8px;
+}
+
+.col-xs-6{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
